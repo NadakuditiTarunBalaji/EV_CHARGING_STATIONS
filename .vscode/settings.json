@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./EV_SAAS/BACKEND/ROUTES"
+    ]
+}
